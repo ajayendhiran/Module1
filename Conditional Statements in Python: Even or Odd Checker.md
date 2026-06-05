@@ -22,6 +22,7 @@ else:
 
 ## Output
 <img width="295" height="217" alt="600877712-f36cf82c-b8e7-4b17-bba9-cbdf2f0649f9" src="https://github.com/user-attachments/assets/d8702832-4779-4ab9-99d9-8624ad07659a" />
-<img width="295" height="217" alt="600877712-f36cf82c-b8e7-4b17-bba9-cbdf2f0649f9" src="https://github.com/user-attachments/assets/503acfa4-3769-45e5-9031-fbd8ef7f1fcd" />
+<img width="347" height="211" alt="600877938-d74210f3-dcc7-4e9d-acd1-be9bf7df3bac" src="https://github.com/user-attachments/assets/ec3100f6-db00-455a-a0a1-9412ba0d70e5" />
+
 
 ## Result
